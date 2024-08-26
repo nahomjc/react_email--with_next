@@ -31,10 +31,7 @@ export const StripeWelcomeEmail = () => (
             alt="Stripe"
           />
           <Hr style={hr} />
-          <Text style={paragraph}>
-            Thanks for submitting your account information. You're now ready to
-            make live transactions with Stripe!
-          </Text>
+          
           <Text style={paragraph}>
             You can view your payments and a variety of other information about
             your account right from your dashboard.
